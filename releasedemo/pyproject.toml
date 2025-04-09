@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "releasedemo"
+version = "0.1.0"
+description = ""
+authors = ["jagadeesh-max <75196960+jagadeesh-max@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
